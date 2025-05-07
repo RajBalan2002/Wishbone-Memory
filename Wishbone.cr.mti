@@ -1,0 +1,20 @@
+{E:/Projects/WishBone Memory/Testbench.sv} {2 {vlog -work work -sv -stats=none {E:/Projects/WishBone Memory/Testbench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package Testbench_sv_unit
+** Warning: E:/Projects/WishBone Memory/Testbench.sv(64): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {E:/Projects/WishBone Memory/Design.sv} {1 {vlog -work work -sv -stats=none {E:/Projects/WishBone Memory/Design.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling interface wb_if
+-- Compiling module mem_wb
+
+Top level modules:
+	mem_wb
+
+} {} {}}

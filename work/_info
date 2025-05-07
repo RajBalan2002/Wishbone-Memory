@@ -1,0 +1,114 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmem_wb
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1745079752
+!i10b 1
+!s100 e^CZWCfB^=QML52JXT6]X0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT=:b?c[@m4OI]P237dKlk1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dE:/Projects/WishBone Memory
+Z5 w1745079740
+Z6 8E:/Projects/WishBone Memory/Design.sv
+Z7 FE:/Projects/WishBone Memory/Design.sv
+!i122 0
+L0 16 75
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1745079751.000000
+Z10 !s107 E:/Projects/WishBone Memory/Design.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/Projects/WishBone Memory/Design.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vtb
+R0
+DXx4 work 17 Testbench_sv_unit 0 22 UP?J@o>aY1E6=IJLmGhNL3
+R1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 ]=JOQKHM;:FB<D4jCb5R02
+I>UWoS8SoB5WkkPn<7aK_50
+!s105 Testbench_sv_unit
+S1
+R4
+Z14 w1745079739
+Z15 8E:/Projects/WishBone Memory/Testbench.sv
+Z16 FE:/Projects/WishBone Memory/Testbench.sv
+!i122 1
+L0 271 61
+R8
+31
+Z17 !s108 1745079752.000000
+!s107 E:/Projects/WishBone Memory/Testbench.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/Projects/WishBone Memory/Testbench.sv|
+!i113 1
+R12
+R13
+XTestbench_sv_unit
+!s115 wb_if
+R0
+R1
+VUP?J@o>aY1E6=IJLmGhNL3
+r1
+!s85 0
+!i10b 1
+!s100 HFe]eJVU@H;UL7[7iEfGY3
+IUP?J@o>aY1E6=IJLmGhNL3
+!i103 1
+S1
+R4
+R14
+R15
+R16
+!i122 1
+L0 3 0
+R8
+31
+R17
+Z19 !s107 E:/Projects/WishBone Memory/Testbench.sv|
+R18
+!i113 1
+R12
+R13
+n@testbench_sv_unit
+Ywb_if
+R0
+R1
+!i10b 1
+!s100 BJEcXSHaGdhH[_JZJGAY^3
+R2
+IJRnRzW@_aBL4zRefRZGM33
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 0
+L0 4 0
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
