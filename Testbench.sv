@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+
 class transaction;
  
   randc bit [1:0] opmode; /// write = 0, read = 1, random =2
