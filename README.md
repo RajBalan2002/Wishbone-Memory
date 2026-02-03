@@ -2,7 +2,7 @@
 
 This project focuses on the RTL design and functional verification of a Wishbone-based memory subsystem using SystemVerilog. A layered, transaction-based verification environment was developed to validate protocol compliance, read/write correctness, and corner cases using constrained-random testing and self-checking mechanisms.
 
-# RTL Design
+# 📁 RTL Design
 
 Designed an 8-bit wide, 256-depth memory module compliant with the Wishbone bus protocol
 
@@ -22,7 +22,7 @@ Supported Wishbone signals:
 
 Ensured deterministic acknowledgment behavior and correct data handling for all valid transactions
 
-# Verification Architecture
+# 📂 Verification Architecture
 
 A modular, layered SystemVerilog testbench was developed following UVM-aligned verification principles.
 
@@ -53,7 +53,7 @@ Scoreboard
 - Performs data integrity checks for read/write operations
 - Detects protocol violations and mismatches automatically
 
-# Project Structure
+# 📌Project Structure
 
 | **Module File** |                              **Description**                                                       |
 |-----------------|----------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ Scoreboard
 | Wishbone.mpf    | ModelSim project file containing simulation configuration, file mappings, and run settings.        |
 | README.md       | Project documentation describing design, verification strategy, and results.                       |
 
-# Tools and Technologies
+# 📊 Tools and Technologies
 
 - Languages: Verilog, SystemVerilog
 - Methodologies: Constrained-Random Verification, Transaction-Based Verification, Scoreboarding
